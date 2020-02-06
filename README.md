@@ -2,7 +2,7 @@
 
 经济学人2020年期刊（pdf版）
 
-
+来源于https://magazinelib.com/网址。
 
 ------
 
@@ -44,7 +44,7 @@ $ git push origin master
 ```
 
 ```powershell
-#删除Git库中已经存在文件(如：从TheEconomist2020库中删除The_Economist目录)
+#删除Git库中已经存在文件(如：从TheEconomist2020库中删除The_Economist-20yymmdd.pdf文件)
 jiangsu@JiangSu MINGW64 /c/MyGit/TheEconomist2020 (master)
 $ git rm -r The_Economist-20yymmdd.pdf
 $ git commit -m "Delete The_Economist-20yymmdd.pdf"
