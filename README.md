@@ -24,3 +24,18 @@ git remote add origin git@github.com:buaajs/TheEconomist2020.git
 git push -u origin master
 ```
 
+<table>
+  <tr>
+    <td><img src="img\cover20200104.jpg" style="zoom:25%;" /></td>
+    <td><img src="img\cover20200111.jpg" style="zoom:25%;" /></td>
+    <td><img src="img\cover20200118.jpg" style="zoom:25%;" /></td>
+    <td><img src="img\cover20200125.jpg" style="zoom:25%;" /></td>
+  </tr>
+  <tr>
+    <td><img src="img\cover20200201.jpg" style="zoom:25%;" /></td>
+    <td><img src="img\cover20200208.jpg" style="zoom:25%;" /></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+
