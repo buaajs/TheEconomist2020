@@ -1,6 +1,6 @@
 # TheEconomist2020
 
-经济学人2020年期刊（pdf版）
+经济学人2020年期刊（pdf版、Markdown版）
 
 相关资源来源于https://magazinelib.com/ 网站。
 
@@ -26,14 +26,14 @@ git push -u origin master
 
 <table>
   <tr>
-    <td><img src="img\cover20200104.jpg" style="zoom:25%;" /></td>
-    <td><img src="img\cover20200111.jpg" style="zoom:25%;" /></td>
-    <td><img src="img\cover20200118.jpg" style="zoom:25%;" /></td>
-    <td><img src="img\cover20200125.jpg" style="zoom:25%;" /></td>
+    <td><img src="images\cover20200104.jpg" style="zoom:25%;" /></td>
+    <td><img src="images\cover20200111.jpg" style="zoom:25%;" /></td>
+    <td><img src="images\cover20200118.jpg" style="zoom:25%;" /></td>
+    <td><img src="images\cover20200125.jpg" style="zoom:25%;" /></td>
   </tr>
   <tr>
-    <td><img src="img\cover20200201.jpg" style="zoom:25%;" /></td>
-    <td><img src="img\cover20200208.jpg" style="zoom:25%;" /></td>
+    <td><img src="images\cover20200201.jpg" style="zoom:25%;" /></td>
+    <td><img src="images\cover20200208.jpg" style="zoom:25%;" /></td>
     <td></td>
     <td></td>
   </tr>
