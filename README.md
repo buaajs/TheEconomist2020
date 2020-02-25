@@ -1,8 +1,8 @@
-# TheEconomist2020
+# The Economist 2020
 
-经济学人2020年期刊（pdf版、Markdown版）
+The Economist 2020 Weekly Edition ( pdf and Markdown format).
 
-相关资源来源于https://magazinelib.com/ 网站。
+Resources come from website: https://magazinelib.com/ .
 
 ------
 
@@ -36,7 +36,6 @@ git push -u origin master
     <td><img src="images\cover20200208.jpg" style="zoom:25%;" /></td>
     <td><img src="images\cover20200215.jpg" style="zoom:25%;" /></td>
     <td><img src="images\cover20200222.jpg" style="zoom:25%;" /></td>
-    <td></td>
   </tr>
 </table>
 
