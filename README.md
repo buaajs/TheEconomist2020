@@ -33,17 +33,24 @@ git push -u origin master
   </tr>
   <tr>
     <td><img src="images\cover20200201.jpg" style="zoom:25%;" /></td>
+    <td><img src="images\cover20200201-2.jpg" style="zoom:25%;" /></td>
     <td><img src="images\cover20200208.jpg" style="zoom:25%;" /></td>
-    <td><img src="images\cover20200215.jpg" style="zoom:25%;" /></td>
-    <td><img src="images\cover20200222.jpg" style="zoom:25%;" /></td>
+    <td><img src="images\cover20200208-usa.jpg" style="zoom:25%;" /></td>
   </tr>
   <tr>
+    <td><img src="images\cover20200215.jpg" style="zoom:25%;" /></td>
+    <td><img src="images\cover20200222.jpg" style="zoom:25%;" /></td>
     <td><img src="images\cover20200229.jpg" style="zoom:25%;" /></td>
+    <td><img src="images\cover20200229-usa.jpg" style="zoom:25%;" /></td>
+  </tr>
+  <tr>
     <td><img src="images\cover20200307.jpg" style="zoom:25%;" /></td>
+    <td><img src="images\" style="zoom:25%;" /></td>
     <td><img src="images\" style="zoom:25%;" /></td>
     <td><img src="images\" style="zoom:25%;" /></td>
   </tr>
 </table>
+
 
 
 
