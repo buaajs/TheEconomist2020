@@ -2,7 +2,7 @@
 
 The Economist 2020 Weekly Edition ( pdf and Markdown format).
 
-Resources come from website: https://magazinelib.com/ .
+Resources come from website: https://magazinelib.com/ or https://vk.com/open_digital_library or https://qzcool.xyz/pre.
 
 ------
 
@@ -48,8 +48,14 @@ git push -u origin master
     <td><img src="images\cover20200314.jpg" style="zoom:25%;" /></td>
     <td><img src="images\cover20200321.jpg" style="zoom:25%;" /></td>
     <td><img src="images\cover20200328.jpg" style="zoom:25%;" /></td>
+  </tr>  <tr>
+    <td><img src="images\cover20200404.jpg" style="zoom:25%;" /></td>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
 </table>
+
 
 
 
