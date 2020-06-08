@@ -4,6 +4,10 @@ The Economist 2020 Weekly Edition ( pdf and Markdown format).
 
 Resources come from website: https://magazinelib.com/ or https://vk.com/open_digital_library or https://qzcool.xyz/pre.
 
+Note: The resource is only for learning, not for commercial purposes.
+
+
+
 ------
 
 ```bash
