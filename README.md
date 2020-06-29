@@ -79,11 +79,12 @@ git push -u origin master
   </tr>
   <tr>
     <td><img src="images\cover20200620-uk.jpg" style="zoom:25%;" /></td>
-    <td></td>
+    <td><img src="images\cover20200627.jpg" style="zoom:25%;" /></td>
     <td></td>
     <td></td>
   </tr>
 </table>
+
 
 
 
