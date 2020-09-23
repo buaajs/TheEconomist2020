@@ -103,8 +103,10 @@ git push -u origin master
   </tr>
   <tr>
     <td><img src="images\cover20200912-mea.jpg" style="zoom:25%;" /></td>
+    <td><img src="images\cover20200919.jpg" style="zoom:25%;" /></td>
   </tr>
 </table>
+
 
 
 
