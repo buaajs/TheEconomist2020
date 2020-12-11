@@ -117,8 +117,16 @@ git push -u origin master
     <td><img src="images\cover20201031-europe.jpg" style="zoom:25%;" /></td>
     <td><img src="images\cover20201107.jpg" style="zoom:25%;" /></td>
     <td><img src="images\cover20201114.jpg" style="zoom:25%;" /></td>
+    <td><img src="images\cover20201121.jpg" style="zoom:25%;" /></td>
+  </tr>
+  <tr>
+    <td><img src="images\cover20201128.jpg" style="zoom:25%;" /></td>
+    <td><img src="images\cover20201205.jpg" style="zoom:25%;" /></td>
+    <td><img src="images\cover20201212.jpg" style="zoom:25%;" /></td>
   </tr>
 </table>
+
+
 
 
 
